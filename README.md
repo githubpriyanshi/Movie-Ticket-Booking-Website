@@ -1,4 +1,7 @@
-# MyShowz-Movie-ticket-booking-website
+Live Link 
+https://githubpriyanshi.github.io/Movie-Ticket-Booking-Website/# MyShowz-Movie-ticket-booking-website
+
+
 It is a movie ticket booking website with front-end only. I designed it as a part of my HCI (human-computer interaction) project.
 It is available in both dark & light mode.
 
